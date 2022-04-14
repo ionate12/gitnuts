@@ -14,6 +14,12 @@ User Detail
 - Supports Day/Night Themes
 - Unit test is also introduced but only a simple test case.
 
+# How to run
+- Assuming that [Android Studio](https://developer.android.com/studio) is already installed. 
+- Simply clone this project and open it on Android Studio. 
+- Then wait for all dependencies loading completedly (automatic).
+- Run the project.
+
 # TODO
 - UI needs to polish in terms of transition, using shared element or Material Motion https://material.io/develop/android/theming/motion will be a valid point to enhance the appearance of the app.
 - Offline/caching strategies also needs to implement.
