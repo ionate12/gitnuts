@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gitnuts</string>
+    <string name="git_username">Username:</string>
+    <string name="type">Type:</string>
+    <string name="url_label">Git Link:</string>
+    <string name="user_detail_no_data">Could not find any data</string>
+</resources>
